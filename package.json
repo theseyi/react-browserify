@@ -23,5 +23,9 @@
   "homepage": "https://github.com/theseyi/react-browserify",
   "dependencies": {
     "react": "^0.12.2"
+  },
+  "devDependencies": {
+    "browserify": "^8.1.3",
+    "reactify": "^1.0.0"
   }
 }
