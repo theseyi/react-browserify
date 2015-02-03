@@ -1,0 +1,27 @@
+{
+  "name": "react-browserify",
+  "version": "1.0.0",
+  "description": "npm packages dependencies for using react with browserify",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theseyi/react-browserify"
+  },
+  "keywords": [
+    "reactjs",
+    "react",
+    "browserify"
+  ],
+  "author": "Seyi Adebajo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theseyi/react-browserify/issues"
+  },
+  "homepage": "https://github.com/theseyi/react-browserify",
+  "dependencies": {
+    "react": "^0.12.2"
+  }
+}
